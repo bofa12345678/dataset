@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Capture6.PNG</filename>
+	<path>C:\Users\Linux Computer\Desktop\Full data set\train\Images\Capture6.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1179</width>
+		<height>652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>156</ymin>
+			<xmax>917</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

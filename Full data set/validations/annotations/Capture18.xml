@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Capture18.PNG</filename>
+	<path>C:\Users\Linux Computer\Desktop\Full data set\validations\Images\Capture18.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1178</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>183</ymin>
+			<xmax>928</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>
